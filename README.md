@@ -19,10 +19,16 @@
 ## 输出
 
 - 按要求命名、合并、转换的 PDF 文件，保留原件。
+
+<img width="1765" height="745" alt="2e507cb6025f22dd8ef7905324454375" src="https://github.com/user-attachments/assets/59e08021-559b-44c9-9a96-0bd363fd582d" />
+
 - **直接出现在对话中的回执**，固定两部分：
   1. **材料检查表**：逐项说明要求、缺件、逻辑/名称/时间问题及处理建议。
   2. **提醒列表**：round 截止时间、电子送分、推荐人直传、录取后核验等，注明办理阶段。
 - Markdown 回执备份及完整核对记录；仅在明确要求时生成回执 PDF。
+<img width="667" height="577" alt="80fac1e0e5c12ab602673a13db836ead" src="https://github.com/user-attachments/assets/3227157c-b44a-4a36-be0e-f2fae4035612" />
+<img width="647" height="533" alt="38a735d9222d4a73a16a109507ea1956" src="https://github.com/user-attachments/assets/abc94adc-bd91-49f8-800d-2ed798b8f5bd" />
+
 
 ## 运行条件
 

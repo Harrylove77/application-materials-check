@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+work/
+outputs/
+materials/
+input/
+report/
+*.pdf
+*.docx
+*.zip
+

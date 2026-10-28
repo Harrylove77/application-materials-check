@@ -1,0 +1,5 @@
+interface:
+  display_name: "港新英申请材料终检"
+  short_description: "查官网要求、整理申请 PDF，在对话中用材料检查表和提醒列表展示回执"
+  default_prompt: "请使用 $application-materials-check 核对并整理我的申请材料，在对话中完整展示材料检查表和提醒列表。"
+
